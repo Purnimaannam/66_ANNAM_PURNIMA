@@ -114,13 +114,13 @@ DeviceGuru/
 ```
 
 ---
-##  Tech Stack
+## Tech Stack
 
-* **Python**
-* **Scikit-learn**
-* **LangChain**
-* **FastAPI**
-* **Streamlit**
+- Python – Core development language
+- Scikit-learn – Machine learning decision engine
+- LangChain – LLM-based intent understanding and explanation
+- FastAPI – Backend API services
+- Streamlit – Interactive user interface
 
 ---
 ##  Impact
@@ -145,3 +145,19 @@ DeviceGuru can be extended to:
 ## Conclusion
 
 DeviceGuru redefines digital recommendations by shifting the focus from selling products to supporting informed decision-making. By combining AI reasoning with machine learning, it delivers trustworthy, explainable, and user-centric recommendations.
+
+---
+## Dataset
+
+This project uses publicly available datasets for training and evaluation.
+
+- Mobile Price Classification Dataset (Kaggle) 
+  https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+
+The dataset contains structured features such as:
+- RAM, battery capacity, internal memory
+- Network support (3G/4G/5G)
+- Device specifications and pricing indicators
+
+The data is preprocessed and transformed before being used by the
+machine learning decision engine.
